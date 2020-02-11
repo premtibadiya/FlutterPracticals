@@ -15,12 +15,12 @@ class MyApp extends StatelessWidget {
       title: "practical",
       home: Scaffold(
         appBar: AppBar(
-          title: Text("17it123_practical"),
+          title: Text("practical_17it119"),
           backgroundColor: Colors.blueAccent,
         ),
         drawer: DrawerOnly(),
         body: Center(
-          child: Text("Open Drawer to see the Practicals",
+          child: Text("Click on hamburger icon to see the Practicals",
           style: TextStyle(
             fontSize: 16.0,
             color: Colors.blueAccent,

@@ -33,7 +33,7 @@ class _Practical4State extends State<Practical4> {
                 
                ),
                RaisedButton(
-                 child: Text("feranhit"),
+                 child: Text("Fahrenheit"),
                  onPressed: (){
                    
                    if(a.toString().isNotEmpty){
